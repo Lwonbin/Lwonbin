@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Lwonbin"/>
 
+### Hi! my name is wonbin
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lwb9036.tistory.com/)](https://lwb9036.tistory.com/)
 
 ## GIt Information
