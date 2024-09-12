@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#0067a3&height=300&section=header&text=Lwonbin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#7BB4E3&height=300&section=header&text=Lwonbin&fontSize=90)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lwb9036.tistory.com/)](https://lwb9036.tistory.com/)
