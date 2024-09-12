@@ -2,7 +2,7 @@
 
 ### Hi! my name is wonbin ✌
 
-### 🌙Profile
+## 🌙Profile
 University : Sangmyung University(seoul) / Major : Department of Intelligent Engineering Informatics for Human
 
 Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lwb9036.tistory.com/)](https://lwb9036.tistory.com/)
