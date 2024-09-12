@@ -2,8 +2,9 @@
 
 ### Hi! my name is wonbin
 
-## Profile
+### Profile
 university : Sangmyung University(seoul)
+
 major : Department of Intelligent Engineering Informatics for Human
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lwb9036.tistory.com/)](https://lwb9036.tistory.com/)
