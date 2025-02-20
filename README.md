@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Lwonbin"/>
 
 ### Hi! my name is wonbin ✌
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Lwonbin}"/>
-</a>
 
 ## 🌙Profile
 University : Sangmyung University(seoul) / Major : Department of Intelligent Engineering Informatics for Human
